@@ -25,3 +25,6 @@ doc/
 .idea
 .secret
 
+#Ignore VIM temp files
+*.swo
+
